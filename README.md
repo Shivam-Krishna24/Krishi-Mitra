@@ -18,13 +18,6 @@ Farming is one of the major sectors that influences a country’s economic growt
 
   -   For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
-  
-## Contributors:
-
--[MD SHAHIL](https://www.linkedin.com/in/md-shahil-ai)
-
--[abhishek Pandey](https://www.linkedin.com/in/pandey-abhishek-nath-roy-179879222/)
-
 
 ## Home Page of our WebApplication
 ![Home Page of our WebApplication](https://github.com/atharval1/precision-agriculture-using-machine-learning/blob/main/Project-docs/App-snaps/Home.png)
